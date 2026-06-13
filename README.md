@@ -23,7 +23,7 @@ Graduate Software Developer from South Africa, building full stack web apps with
 
 | # | Project | Stack | Status |
 |---|---|---|---|
-| 01 | [School Management System](#) | ASP.NET Core · React · SQL Server | 🔧 In progress |
+| 01 | [SchoolPulse - School Management System](#) | ASP.NET Core · React · SQL Server | 🔧 In progress |
 | 02 | [Invoice Generator](#) | ASP.NET Core · React · SQL Server · PDF | 🔧 In progress |
 | 03 | [SA Job Board Aggregator](#) | Node.js · Express · React · MySQL | 🔧 In progress |
 | 04 | [Leave Request System](#) | ASP.NET Core · Razor · SQL Server | 🔧 In progress |
