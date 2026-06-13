@@ -1,6 +1,6 @@
 # Hi, I'm Sizolwethu Mashele 👋
 
-Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently seeking an internship or junior developer roles to grow into a full stack engineer.
+Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently open to internships and junior developer roles to grow into a full stack engineer.
 
 ---
 
