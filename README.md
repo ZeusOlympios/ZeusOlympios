@@ -1,6 +1,6 @@
 # Hi, I'm Sizolwethu Mashele 👋
 
-Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently open to internships and junior developer roles to grow into a full stack engineer.
+Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently open to internships and junior developer roles.
 
 ---
 
@@ -21,19 +21,21 @@ Graduate Software Developer from South Africa, building full stack web apps with
 
 ### Projects
 
-| Project | Stack | Status |
-|---|---|---|
-| [Job Application Tracker](#) | React · Node.js · Express · MySQL | 🔧 In progress |
-| [Leave Request System](#) | ASP.NET Core · Razor · SQL Server | 🔧 In progress |
-| [Mini Projects](https://github.com/ZeusOlympios) | Python · JavaScript · C# | 🔧 In progress |
+| # | Project | Stack | Status |
+|---|---|---|---|
+| 01 | [School Management System](#) | ASP.NET Core · React · SQL Server | 🔧 In progress |
+| 02 | [Invoice Generator](#) | ASP.NET Core · React · SQL Server · PDF | 🔧 In progress |
+| 03 | [SA Job Board Aggregator](#) | Node.js · Express · React · MySQL | 🔧 In progress |
+| 04 | [Leave Request System](#) | ASP.NET Core · Razor · SQL Server | 🔧 In progress |
+| 05 | [Mini Projects](#) | C# · Python · JavaScript | 🔧 In progress |
 
 ---
 
 ### Currently
 
-- 🔨 Building two full stack projects for my portfolio
-- 📖 Deepening Node.js/Express and ASP.NET Core
-- 📍 Based in Pretoria, Gauteng, South Africa — open to remote & South African roles
+- 🔨 Building full stack projects with ASP.NET Core and React
+- 📖 Deepening ASP.NET Core, SQL Server and React
+- 📍 Based in Pretoria, Gauteng — open to remote & SA roles
 - 📬 Open to junior dev & internship opportunities from July 2026
 
 ---
