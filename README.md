@@ -1,6 +1,6 @@
 # Hi, I'm Sizolwethu Mashele 👋
 
-Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently seeking an internship to grow into a full stack engineer.
+Graduate Software Developer from South Africa, building full stack web apps with C# and JavaScript. Currently seeking an internship or junior developer roles to grow into a full stack engineer.
 
 ---
 
@@ -33,8 +33,8 @@ Graduate Software Developer from South Africa, building full stack web apps with
 
 - 🔨 Building two full stack projects for my portfolio
 - 📖 Deepening Node.js/Express and ASP.NET Core
-- 📍 Based in Mpumalanga, South Africa — open to remote & Gauteng roles
-- 📬 Open to junior dev & internship opportunities from July 2025
+- 📍 Based in Pretoria, Gauteng, South Africa — open to remote & South African roles
+- 📬 Open to junior dev & internship opportunities from July 2026
 
 ---
 
